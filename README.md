@@ -9,8 +9,8 @@ A ROS package is created that will load a world and a building or a room with a 
 
 Resources : 
 
-[Gazebo Tutorials](http://gazebosim.org/tutorials/browse)
-[Turtlebot3 ROS package](http://wiki.ros.org/turtlebot3)
+* [Gazebo Tutorials](http://gazebosim.org/tutorials/browse)
+* [Turtlebot3 ROS package](http://wiki.ros.org/turtlebot3)
 
 
 ### Prerequisites
